@@ -1,10 +1,17 @@
 <div align="center">
 
-# Hi, I'm Sudeep 👋
+# Hi, I'm Sudeep 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Oracle+SQL+%7C+MongoDB+%7C+BigQuery;Design+in+Figma+%E2%86%92+Ship+in+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+### 💻 Full Stack Developer  
 
-![Status](https://img.shields.io/badge/Full%20Stack%20Developer-Open%20to%20Collaborate-2dd4bf?style=flat-square)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Design+→+Build+→+Deploy;Clean+UI+%7C+Scalable+Backend;Always+Learning+New+Things+🚀" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2dd4bf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-0ea5e9?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -13,10 +20,10 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Building **end-to-end applications** — from pixel-perfect UIs to robust backends  
-- 🌱 Leveling up in **BigQuery & Cloud Data Engineering**  
-- 💬 Ask me about **React, Node.js, Python, Oracle SQL, MongoDB**  
+- 🌱 Exploring **BigQuery & Cloud Data Engineering**  
+- 💬 Ask me about **React, Node.js, Python, SQL, MongoDB**  
 - 🎨 I design in **Figma first**, then ship it clean  
-- ⚡ Coffee → Code → Deploy. Repeat.  
+- ⚡ *Code. Build. Deploy. Repeat.*  
 
 ---
 
@@ -60,9 +67,17 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudeepm18&theme=github-dark-blue&hide_border=true&ring=2dd4bf&fire=f97316&currStreakLabel=2dd4bf)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sudeepm18&theme=github-dark-blue&hide_border=true&ring=2dd4bf&fire=f97316&currStreakLabel=2dd4bf" />
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **Smart Dustbin AI** — Waste detection + prediction system  
+- 🔹 **Real-time Chat App** — WebSockets + MERN stack  
+- 🔹 **Kaizen System** — Enterprise idea management platform  
 
 ---
 
@@ -76,16 +91,14 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudeepm18)
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@your-handle)
-
 </div>
 
 ---
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=sudeepm18&color=2dd4bf&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=sudeepm18&color=2dd4bf&style=flat-square&label=Profile+Views" />
 
-*⚡ "Build it. Ship it. Improve it."*
+### ⚡ *Build it. Ship it. Improve it.*
 
 </div>
