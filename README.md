@@ -12,11 +12,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Building **end-to-end applications** — from pixel-perfect UIs to robust backends
-- 🌱 Leveling up in **BigQuery & Cloud Data Engineering**
-- 💬 Ask me about **React, Node.js, Python, Oracle SQL, MongoDB**
-- 🎨 I design in **Figma first**, then ship it clean
-- ⚡ Coffee → Code → Deploy. Repeat.
+- 🔭 Building **end-to-end applications** — from pixel-perfect UIs to robust backends  
+- 🌱 Leveling up in **BigQuery & Cloud Data Engineering**  
+- 💬 Ask me about **React, Node.js, Python, Oracle SQL, MongoDB**  
+- 🎨 I design in **Figma first**, then ship it clean  
+- ⚡ Coffee → Code → Deploy. Repeat.  
 
 ---
 
@@ -52,14 +52,15 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sudeepm18&show_icons=true&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeepm18&layout=compact&theme=github_dark&hide_border=true&title_color=2dd4bf" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudeepm18&show_icons=true&theme=github_dark&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudeepm18&layout=compact&theme=github_dark&hide_border=true&title_color=2dd4bf&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudeepm18&theme=github-dark-blue&hide_border=true&ring=2dd4bf&fire=f97316&currStreakLabel=2dd4bf)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudeepm18&theme=github-dark-blue&hide_border=true&ring=2dd4bf&fire=f97316&currStreakLabel=2dd4bf)](https://git.io/streak-stats)
 
 </div>
 
@@ -69,10 +70,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeep-s-m-5a8a60329)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudeepm18)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@YOUR_HANDLE)
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@your-handle)
 
 </div>
 
