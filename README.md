@@ -73,14 +73,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 **Smart Dustbin AI** — Waste detection + prediction system  
-- 🔹 **Real-time Chat App** — WebSockets + MERN stack  
-- 🔹 **Kaizen System** — Enterprise idea management platform  
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
